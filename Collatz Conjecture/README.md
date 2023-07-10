@@ -26,9 +26,10 @@ Using this mode will greatly and exponentially increase execution speed.
 ## Usage
 
 To get started, open your terminal/console and enter "python3 your/path/main.py".
-First, the program will ask you about which mode (explained under "Modes") you want to use.
+First, the program will ask you which mode (explained under "Modes") you want to use.
 Answer with "y" for yes or "n" for no.
-Additionally an option will show up, asking you for an iteration-counting.
+Then the program will ask you if it should print every number of the range with it's
+respective iteration count.
 Again, answer with "y" or "n", depending on your choice.
 Before the program starts calculating, you must define a start and stop point (both integers)
 which will define the range of numbers being calculated.
