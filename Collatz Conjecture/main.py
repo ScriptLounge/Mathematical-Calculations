@@ -113,7 +113,7 @@ def get_range(n_range: range, *args):
 
             # handle stats
             current_max = max(lst)
-            current_len = len(lst)
+            current_len = len(lst) - 1
             if args[1]:
                 print(f"--> max: {current_max}, len: {current_len}")
 
