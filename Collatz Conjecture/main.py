@@ -2,7 +2,7 @@
 Generator on the Collatz Conjecture (v1.0).
 Created within the Project "DevLounge".
 Licenced under the European Union Public License (EUPL) 1.2
-Copyright (c) 2023 Daniel Siebke, Benjamin Siebke
+Copyright (c) 2023 Daniel Siebke, Benjamin Siebke. All rights reserved.
 
 Visit our website: https://dev-lounge.org.
 """
@@ -144,7 +144,7 @@ if __name__ == "__main__":
     print('Generator on the Collatz Conjecture (v1.0).',
           'Created within the Project "DevLounge".',
           'Licenced under the European Union Public License (EUPL) 1.2',
-          'Copyright (c) 2023 Daniel Siebke, Benjamin Siebke',
+          'Copyright (c) 2023 Daniel Siebke, Benjamin Siebke. All rights reserved.',
           '',
           'Visit our website: https://dev-lounge.org.', sep="\n", end="\n\n\n")
 
